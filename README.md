@@ -1,1 +1,1 @@
-# Crime-Data-Analysis-and-Predictin-the-Totoal-Crime-Rate
+# Crime-Data-Analysis-and-Predictin-the-Total-Crime-Rate
